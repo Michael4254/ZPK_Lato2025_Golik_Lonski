@@ -1,1 +1,1 @@
-# ZPK_Lato2025_Golik_-o-ski
+# ZPK_Lato2025_Golik_Łoński
