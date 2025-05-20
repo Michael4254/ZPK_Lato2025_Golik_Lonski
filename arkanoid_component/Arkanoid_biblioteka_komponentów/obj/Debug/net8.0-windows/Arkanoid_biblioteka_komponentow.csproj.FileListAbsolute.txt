@@ -1,0 +1,16 @@
+C:\Users\Adrian\Desktop\arkanoid componentowo\arkanoid_component\Arkanoid_biblioteka_komponentów\bin\Debug\net8.0-windows\Arkanoid_biblioteka_komponentow.deps.json
+C:\Users\Adrian\Desktop\arkanoid componentowo\arkanoid_component\Arkanoid_biblioteka_komponentów\bin\Debug\net8.0-windows\Arkanoid_biblioteka_komponentow.dll
+C:\Users\Adrian\Desktop\arkanoid componentowo\arkanoid_component\Arkanoid_biblioteka_komponentów\bin\Debug\net8.0-windows\Arkanoid_biblioteka_komponentow.pdb
+C:\Users\Adrian\Desktop\arkanoid componentowo\arkanoid_component\Arkanoid_biblioteka_komponentów\obj\Debug\net8.0-windows\Arkanoid_biblioteka_komponentow.PaddleControl.resources
+C:\Users\Adrian\Desktop\arkanoid componentowo\arkanoid_component\Arkanoid_biblioteka_komponentów\obj\Debug\net8.0-windows\Arkanoid_biblioteka_komponentow.csproj.GenerateResource.cache
+C:\Users\Adrian\Desktop\arkanoid componentowo\arkanoid_component\Arkanoid_biblioteka_komponentów\obj\Debug\net8.0-windows\Arkanoid_biblioteka_komponentow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\arkanoid componentowo\arkanoid_component\Arkanoid_biblioteka_komponentów\obj\Debug\net8.0-windows\Arkanoid_biblioteka_komponentow.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\arkanoid componentowo\arkanoid_component\Arkanoid_biblioteka_komponentów\obj\Debug\net8.0-windows\Arkanoid_biblioteka_komponentow.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\arkanoid componentowo\arkanoid_component\Arkanoid_biblioteka_komponentów\obj\Debug\net8.0-windows\Arkanoid_biblioteka_komponentow.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\arkanoid componentowo\arkanoid_component\Arkanoid_biblioteka_komponentów\obj\Debug\net8.0-windows\Arkanoid_biblioteka_komponentow.dll
+C:\Users\Adrian\Desktop\arkanoid componentowo\arkanoid_component\Arkanoid_biblioteka_komponentów\obj\Debug\net8.0-windows\refint\Arkanoid_biblioteka_komponentow.dll
+C:\Users\Adrian\Desktop\arkanoid componentowo\arkanoid_component\Arkanoid_biblioteka_komponentów\obj\Debug\net8.0-windows\Arkanoid_biblioteka_komponentow.pdb
+C:\Users\Adrian\Desktop\arkanoid componentowo\arkanoid_component\Arkanoid_biblioteka_komponentów\obj\Debug\net8.0-windows\ref\Arkanoid_biblioteka_komponentow.dll
+C:\Users\Adrian\Desktop\arkanoid componentowo\arkanoid_component\Arkanoid_biblioteka_komponentów\obj\Debug\net8.0-windows\Arkanoid_biblioteka_komponentow.BallControl.resources
+C:\Users\Adrian\Desktop\arkanoid componentowo\arkanoid_component\Arkanoid_biblioteka_komponentów\obj\Debug\net8.0-windows\Arkanoid_biblioteka_komponentow.BrickControl.resources
+C:\Users\Adrian\Desktop\arkanoid componentowo\arkanoid_component\Arkanoid_biblioteka_komponentów\obj\Debug\net8.0-windows\Arkanoid_biblioteka_komponentow.PowerUpControl.resources

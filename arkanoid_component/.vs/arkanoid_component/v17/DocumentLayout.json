@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|c:\\users\\adrian\\desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|solutionrelative:arkanoid_component\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|solutionrelative:arkanoid_component\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F850223F-E053-4364-B498-A57DE3CE23AC}|Arkanoid_biblioteka_komponent\u00F3w\\Arkanoid_biblioteka_komponentow.csproj|c:\\users\\adrian\\desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_biblioteka_komponent\u00F3w\\powerupcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F850223F-E053-4364-B498-A57DE3CE23AC}|Arkanoid_biblioteka_komponent\u00F3w\\Arkanoid_biblioteka_komponentow.csproj|solutionrelative:arkanoid_biblioteka_komponent\u00F3w\\powerupcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F850223F-E053-4364-B498-A57DE3CE23AC}|Arkanoid_biblioteka_komponent\u00F3w\\Arkanoid_biblioteka_komponentow.csproj|C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_biblioteka_komponent\u00F3w\\powerupcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F850223F-E053-4364-B498-A57DE3CE23AC}|Arkanoid_biblioteka_komponent\u00F3w\\Arkanoid_biblioteka_komponentow.csproj|solutionrelative:arkanoid_biblioteka_komponent\u00F3w\\powerupcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|c:\\users\\adrian\\desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|solutionrelative:arkanoid_component\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|solutionrelative:arkanoid_component\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|c:\\users\\adrian\\desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\optionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|solutionrelative:arkanoid_component\\optionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\optionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|solutionrelative:arkanoid_component\\optionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|c:\\users\\adrian\\desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\optionsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|solutionrelative:arkanoid_component\\optionsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|c:\\users\\adrian\\desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\rankingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|solutionrelative:arkanoid_component\\rankingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\rankingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|solutionrelative:arkanoid_component\\rankingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|c:\\users\\adrian\\desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\rankingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|solutionrelative:arkanoid_component\\rankingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|c:\\users\\adrian\\desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|solutionrelative:arkanoid_component\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|c:\\users\\adrian\\desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|solutionrelative:arkanoid_component\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|c:\\users\\adrian\\desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7594CFBC-5F71-457E-9F93-4B7AABC31688}|arkanoid_component\\arkanoid_component.csproj|solutionrelative:arkanoid_component\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F850223F-E053-4364-B498-A57DE3CE23AC}|Arkanoid_biblioteka_komponent\u00F3w\\Arkanoid_biblioteka_komponentow.csproj|c:\\users\\adrian\\desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_biblioteka_komponent\u00F3w\\brickcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F850223F-E053-4364-B498-A57DE3CE23AC}|Arkanoid_biblioteka_komponent\u00F3w\\Arkanoid_biblioteka_komponentow.csproj|solutionrelative:arkanoid_biblioteka_komponent\u00F3w\\brickcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F850223F-E053-4364-B498-A57DE3CE23AC}|Arkanoid_biblioteka_komponent\u00F3w\\Arkanoid_biblioteka_komponentow.csproj|C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_biblioteka_komponent\u00F3w\\brickcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F850223F-E053-4364-B498-A57DE3CE23AC}|Arkanoid_biblioteka_komponent\u00F3w\\Arkanoid_biblioteka_komponentow.csproj|solutionrelative:arkanoid_biblioteka_komponent\u00F3w\\brickcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F850223F-E053-4364-B498-A57DE3CE23AC}|Arkanoid_biblioteka_komponent\u00F3w\\Arkanoid_biblioteka_komponentow.csproj|c:\\users\\adrian\\desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_biblioteka_komponent\u00F3w\\ballcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F850223F-E053-4364-B498-A57DE3CE23AC}|Arkanoid_biblioteka_komponent\u00F3w\\Arkanoid_biblioteka_komponentow.csproj|solutionrelative:arkanoid_biblioteka_komponent\u00F3w\\ballcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F850223F-E053-4364-B498-A57DE3CE23AC}|Arkanoid_biblioteka_komponent\u00F3w\\Arkanoid_biblioteka_komponentow.csproj|C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_biblioteka_komponent\u00F3w\\ballcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F850223F-E053-4364-B498-A57DE3CE23AC}|Arkanoid_biblioteka_komponent\u00F3w\\Arkanoid_biblioteka_komponentow.csproj|solutionrelative:arkanoid_biblioteka_komponent\u00F3w\\ballcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F850223F-E053-4364-B498-A57DE3CE23AC}|Arkanoid_biblioteka_komponent\u00F3w\\Arkanoid_biblioteka_komponent\u00F3w.csproj|C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_biblioteka_komponent\u00F3w\\paddlecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F850223F-E053-4364-B498-A57DE3CE23AC}|Arkanoid_biblioteka_komponent\u00F3w\\Arkanoid_biblioteka_komponent\u00F3w.csproj|solutionrelative:arkanoid_biblioteka_komponent\u00F3w\\paddlecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F850223F-E053-4364-B498-A57DE3CE23AC}|Arkanoid_biblioteka_komponent\u00F3w\\Arkanoid_biblioteka_komponentow.csproj|c:\\users\\adrian\\desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_biblioteka_komponent\u00F3w\\paddlecontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F850223F-E053-4364-B498-A57DE3CE23AC}|Arkanoid_biblioteka_komponent\u00F3w\\Arkanoid_biblioteka_komponentow.csproj|solutionrelative:arkanoid_biblioteka_komponent\u00F3w\\paddlecontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F850223F-E053-4364-B498-A57DE3CE23AC}|Arkanoid_biblioteka_komponent\u00F3w\\Arkanoid_biblioteka_komponentow.csproj|c:\\users\\adrian\\desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_biblioteka_komponent\u00F3w\\paddlecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F850223F-E053-4364-B498-A57DE3CE23AC}|Arkanoid_biblioteka_komponent\u00F3w\\Arkanoid_biblioteka_komponentow.csproj|solutionrelative:arkanoid_biblioteka_komponent\u00F3w\\paddlecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PowerUpControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\Arkanoid_biblioteka_komponent\u00F3w\\PowerUpControl.cs",
+              "RelativeDocumentMoniker": "Arkanoid_biblioteka_komponent\u00F3w\\PowerUpControl.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\Arkanoid_biblioteka_komponent\u00F3w\\PowerUpControl.cs [Design]",
+              "RelativeToolTip": "Arkanoid_biblioteka_komponent\u00F3w\\PowerUpControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:39:37.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PowerUpControl.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\Arkanoid_biblioteka_komponent\u00F3w\\PowerUpControl.cs",
+              "RelativeDocumentMoniker": "Arkanoid_biblioteka_komponent\u00F3w\\PowerUpControl.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\Arkanoid_biblioteka_komponent\u00F3w\\PowerUpControl.cs",
+              "RelativeToolTip": "Arkanoid_biblioteka_komponent\u00F3w\\PowerUpControl.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:14:25.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OptionsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\OptionsForm.cs",
+              "RelativeDocumentMoniker": "arkanoid_component\\OptionsForm.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\OptionsForm.cs [Design]",
+              "RelativeToolTip": "arkanoid_component\\OptionsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:02:07.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OptionsManager.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\OptionsManager.cs",
+              "RelativeDocumentMoniker": "arkanoid_component\\OptionsManager.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\OptionsManager.cs",
+              "RelativeToolTip": "arkanoid_component\\OptionsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:01:23.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Prompt.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\Prompt.cs",
+              "RelativeDocumentMoniker": "arkanoid_component\\Prompt.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\Prompt.cs",
+              "RelativeToolTip": "arkanoid_component\\Prompt.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvzMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:35:18.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RankingManager.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\RankingManager.cs",
+              "RelativeDocumentMoniker": "arkanoid_component\\RankingManager.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\RankingManager.cs",
+              "RelativeToolTip": "arkanoid_component\\RankingManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvzIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:34:18.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\MenuForm.cs",
+              "RelativeDocumentMoniker": "arkanoid_component\\MenuForm.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\MenuForm.cs",
+              "RelativeToolTip": "arkanoid_component\\MenuForm.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:23:29.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BallControl.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\Arkanoid_biblioteka_komponent\u00F3w\\BallControl.cs",
+              "RelativeDocumentMoniker": "Arkanoid_biblioteka_komponent\u00F3w\\BallControl.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\Arkanoid_biblioteka_komponent\u00F3w\\BallControl.cs",
+              "RelativeToolTip": "Arkanoid_biblioteka_komponent\u00F3w\\BallControl.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:47:10.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\Form1.cs",
+              "RelativeDocumentMoniker": "arkanoid_component\\Form1.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\Form1.cs [Design]",
+              "RelativeToolTip": "arkanoid_component\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:09:00.194Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\Form1.cs",
+              "RelativeDocumentMoniker": "arkanoid_component\\Form1.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\Form1.cs",
+              "RelativeToolTip": "arkanoid_component\\Form1.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAkwMkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:56:04.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OptionsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\OptionsForm.cs",
+              "RelativeDocumentMoniker": "arkanoid_component\\OptionsForm.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\OptionsForm.cs",
+              "RelativeToolTip": "arkanoid_component\\OptionsForm.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAADwv2AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:02:51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\MenuForm.cs",
+              "RelativeDocumentMoniker": "arkanoid_component\\MenuForm.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\MenuForm.cs [Design]",
+              "RelativeToolTip": "arkanoid_component\\MenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:23:24.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RankingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\RankingForm.cs",
+              "RelativeDocumentMoniker": "arkanoid_component\\RankingForm.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\RankingForm.cs [Design]",
+              "RelativeToolTip": "arkanoid_component\\RankingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:37:35.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RankingForm.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\RankingForm.cs",
+              "RelativeDocumentMoniker": "arkanoid_component\\RankingForm.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\RankingForm.cs",
+              "RelativeToolTip": "arkanoid_component\\RankingForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvzwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:38:00.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\Form1.resx",
+              "RelativeDocumentMoniker": "arkanoid_component\\Form1.resx",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\Form1.resx",
+              "RelativeToolTip": "arkanoid_component\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-19T16:38:18.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BallControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\Arkanoid_biblioteka_komponent\u00F3w\\BallControl.cs",
+              "RelativeDocumentMoniker": "Arkanoid_biblioteka_komponent\u00F3w\\BallControl.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\Arkanoid_biblioteka_komponent\u00F3w\\BallControl.cs [Design]",
+              "RelativeToolTip": "Arkanoid_biblioteka_komponent\u00F3w\\BallControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:46:14.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BrickControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\Arkanoid_biblioteka_komponent\u00F3w\\BrickControl.cs",
+              "RelativeDocumentMoniker": "Arkanoid_biblioteka_komponent\u00F3w\\BrickControl.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\Arkanoid_biblioteka_komponent\u00F3w\\BrickControl.cs [Design]",
+              "RelativeToolTip": "Arkanoid_biblioteka_komponent\u00F3w\\BrickControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:41:30.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaddleControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\Arkanoid_biblioteka_komponent\u00F3w\\PaddleControl.Designer.cs",
+              "RelativeDocumentMoniker": "Arkanoid_biblioteka_komponent\u00F3w\\PaddleControl.Designer.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\Arkanoid_biblioteka_komponent\u00F3w\\PaddleControl.Designer.cs",
+              "RelativeToolTip": "Arkanoid_biblioteka_komponent\u00F3w\\PaddleControl.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:07:53.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\Program.cs",
+              "RelativeDocumentMoniker": "arkanoid_component\\Program.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\arkanoid_component\\Program.cs",
+              "RelativeToolTip": "arkanoid_component\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:18:55.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PaddleControl.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\Arkanoid_biblioteka_komponent\u00F3w\\PaddleControl.cs",
+              "RelativeDocumentMoniker": "Arkanoid_biblioteka_komponent\u00F3w\\PaddleControl.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\Arkanoid_biblioteka_komponent\u00F3w\\PaddleControl.cs",
+              "RelativeToolTip": "Arkanoid_biblioteka_komponent\u00F3w\\PaddleControl.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvzsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:48:59.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BrickControl.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\Arkanoid_biblioteka_komponent\u00F3w\\BrickControl.cs",
+              "RelativeDocumentMoniker": "Arkanoid_biblioteka_komponent\u00F3w\\BrickControl.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\Arkanoid_biblioteka_komponent\u00F3w\\BrickControl.cs",
+              "RelativeToolTip": "Arkanoid_biblioteka_komponent\u00F3w\\BrickControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:43:09.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PaddleControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\Arkanoid_biblioteka_komponent\u00F3w\\PaddleControl.cs",
+              "RelativeDocumentMoniker": "Arkanoid_biblioteka_komponent\u00F3w\\PaddleControl.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\arkanoid componentowo\\arkanoid_component\\Arkanoid_biblioteka_komponent\u00F3w\\PaddleControl.cs [Design]",
+              "RelativeToolTip": "Arkanoid_biblioteka_komponent\u00F3w\\PaddleControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:41:24.219Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
