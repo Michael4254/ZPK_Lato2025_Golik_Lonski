@@ -1,0 +1,86 @@
+Dokumentacja Uruchomieniowa
+
+Wymagania:
+
+.NET Framework 4.7.2 lub nowszy (lub .NET Core z WinForms)
+Visual Studio lub inny edytor obsługujący C# WinForms
+
+Komponenty:
+
+BallControl:
+
+Przykładowe użycie:
+
+var ball = new BallControl();
+ball.Location = new Point(120, 380);
+ball.VelocityX = 4f;
+ball.VelocityY = -4f;
+this.Controls.Add(ball);
+
+// Przesuń kulkę
+ball.Move();
+
+// Odbij kulkę po osi X lub Y
+ball.ReflectX();
+ball.ReflectY();
+
+
+BrickControl:
+
+Przykładowe użycie:
+
+var brick = new BrickControl();
+brick.Location = new Point(50, 50);
+brick.Width = 60;
+brick.Height = 24;
+brick.HitPoints = 1;
+this.Controls.Add(brick);
+
+// Obsługa trafienia
+brick.BrickDestroyed += (s, e) =>
+{
+    // Usuwamy cegłę z ekranu, zwiększamy wynik itp.
+    this.Controls.Remove(brick);
+};
+
+brick.Hit();  // wywołuje trafienie cegły
+
+
+PaddleControl:
+
+Przykładowe użycie:
+
+var paddle = new PaddleControl();
+paddle.Location = new Point(100, 400);
+paddle.Width = 80;
+paddle.Height = 20;
+this.Controls.Add(paddle);
+
+// Ruch paletki:
+paddle.MoveLeft();
+paddle.MoveRight();
+
+PowerUpControl:
+
+Przykładowe użycie:
+
+var powerUp = new PowerUpControl();
+powerUp.Type = PowerUpType.ExtraLife;
+powerUp.Location = new Point(100, 100);
+this.Controls.Add(powerUp);
+
+// Zatrzymanie spadania bonusa
+powerUp.Stop();
+
+// Obsługa zebrania bonusu
+powerUp.Collected += (sender, type) =>
+{
+    if (type == PowerUpType.ExtraLife)
+    {
+        // dodaj życie graczowi
+    }
+    // inne efekty bonusów...
+};
+
+Każdy komponent jest niezależnym kontrolką UserControl, którą dodajesz do formy,
+ustawiasz jej właściwości i obsługujesz zdarzenia, np. ruch paletki, kolizje piłki czy zbieranie bonusów.
