@@ -5,7 +5,7 @@ Wymagania:
 .NET Framework 4.7.2 lub nowszy (lub .NET Core z WinForms)
 Visual Studio lub inny edytor obsługujący C# WinForms
 
-Otwórz katalog arkanoid_component i otwórz plik arkanoid_component.sln
+Uruchom edytor obsługujący C# WinForms, otwórz projekt: katalog arkanoid_component, plik arkanoid_component.sln.
 
 Komponenty:
 
