@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "paddleTest", "paddleTest\paddleTest.csproj", "{3773A62A-1780-4CE3-A8E8-CE372666B9D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arkanoid_biblioteka_komponentow", "..\..\..\arkanoid componentowo\arkanoid_component\Arkanoid_biblioteka_komponentów\Arkanoid_biblioteka_komponentow.csproj", "{AF2D337E-1458-D180-FD96-D201DDCB7C12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3773A62A-1780-4CE3-A8E8-CE372666B9D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3773A62A-1780-4CE3-A8E8-CE372666B9D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3773A62A-1780-4CE3-A8E8-CE372666B9D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3773A62A-1780-4CE3-A8E8-CE372666B9D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF2D337E-1458-D180-FD96-D201DDCB7C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF2D337E-1458-D180-FD96-D201DDCB7C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF2D337E-1458-D180-FD96-D201DDCB7C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF2D337E-1458-D180-FD96-D201DDCB7C12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02F1429F-F54E-42D4-BAFC-6A6DD1ABF13E}
+	EndGlobalSection
+EndGlobal

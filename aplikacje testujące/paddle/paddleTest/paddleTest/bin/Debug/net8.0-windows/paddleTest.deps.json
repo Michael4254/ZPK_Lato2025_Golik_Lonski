@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "paddleTest/1.0.0": {
+        "dependencies": {
+          "Arkanoid_biblioteka_komponentow": "1.0.0"
+        },
+        "runtime": {
+          "paddleTest.dll": {}
+        }
+      },
+      "Arkanoid_biblioteka_komponentow/1.0.0": {
+        "runtime": {
+          "Arkanoid_biblioteka_komponentow.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "paddleTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Arkanoid_biblioteka_komponentow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
